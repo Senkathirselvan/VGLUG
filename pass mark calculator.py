@@ -23,7 +23,7 @@ for j in pass_or_fail:
 
 
 students = [
-    ("Alice", {"Tamil": 85, "English": 90, "Maths": 92, "Science": 88, "Social Science": 91}),
+    ("Alice", {"Tamil": 65, "English": 90, "Maths": 92, "Science": 88, "Social Science": 91}),
     ("Bob", {"Tamil": 70, "English": 75, "Maths": 65, "Science": 60, "Social Science": 80}),
     ("Charlie", {"Tamil": 45, "English": 50, "Maths": 55, "Science": 58, "Social Science": 60})
 ]
